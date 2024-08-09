@@ -1,0 +1,8 @@
+package health.management.system;
+
+public class HealthManagementSystem {
+    public static void main(String[] args) {
+        // TODO code application logic here
+    }  
+    
+}
