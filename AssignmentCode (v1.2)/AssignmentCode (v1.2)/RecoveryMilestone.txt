@@ -1,0 +1,3 @@
+S001,C205,Week 1 – 2,Review all lecture topics
+S001,C205,Week 3,Meet with lecturer to discuss Exam
+S001,C205,Week 4,Retake Exam

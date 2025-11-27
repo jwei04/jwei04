@@ -1,0 +1,7 @@
+StudentID,CourseID,ExamMark,AssignmentMark,FinalGrade,GradePoint
+S001,C205,30,50,F,0.0
+S001,C214,55,35,F,0.0
+S002,C203,80,78,A,4.0
+S002,C212,60,58,C,2.0
+S101,C205,55,20,F,0.0
+S101,C206,100,100,A,4.0

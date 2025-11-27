@@ -1,0 +1,2 @@
+S001,C214,Assignment,Consult with lecturer and redo assignment
+S001,C205,Exam,Review all topic slide lessons
